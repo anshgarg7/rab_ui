@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55f7547b.css",
+    "main.js": "/static/js/main.321a03b4.js",
+    "static/js/765.84439f65.chunk.js": "/static/js/765.84439f65.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/register_bg.png": "/static/media/register_bg.044f092a32f0ede4baf2.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/activity_image.png": "/static/media/activity_image.4ef6d7a795be709d099e.png",
+    "static/media/hondaCar.png": "/static/media/hondaCar.eed785c61d52210e44b7.png",
+    "static/media/jetskiing.png": "/static/media/jetskiing.a23704593c8fa27235bd.png",
+    "static/media/bike.png": "/static/media/bike.75338e887b4089e43c3b.png",
+    "static/media/flags@2x.png": "/static/media/flags@2x.140042eba8c90ae1cede.png",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/flags.png": "/static/media/flags.ae53191452bb217f0fa6.png",
+    "static/media/CustomerImage.jpg": "/static/media/CustomerImage.a132aa05b956b8556d0c.jpg",
+    "static/media/vist.png": "/static/media/vist.e5a9c4993bfa8e169b06.png",
+    "static/media/hotel.png": "/static/media/hotel.10113c2ef53fef80486c.png",
+    "static/media/car.png": "/static/media/car.fa60aa415d9e2f5b01b2.png",
+    "static/media/scaner.png": "/static/media/scaner.b4de6b57242794efc090.png",
+    "static/media/driverImage.jpg": "/static/media/driverImage.766bc36dc72f0f3fc26d.jpg",
+    "static/media/award.png": "/static/media/award.495bdd99b06c1c2fe988.png",
+    "index.html": "/index.html",
+    "static/media/drop.svg": "/static/media/drop.05cc8639144a334e4bed.svg",
+    "main.55f7547b.css.map": "/static/css/main.55f7547b.css.map",
+    "main.321a03b4.js.map": "/static/js/main.321a03b4.js.map",
+    "765.84439f65.chunk.js.map": "/static/js/765.84439f65.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55f7547b.css",
+    "static/js/main.321a03b4.js"
+  ]
+}
